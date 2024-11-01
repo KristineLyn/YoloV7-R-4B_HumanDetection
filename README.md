@@ -124,7 +124,7 @@ The Smart Home Security: Intruder Detection System is designed to enhance home s
 
 ## Contributing
 
-Contributions are welcome! If you'd like to improve the project, feel free to open an issue or submit a pull request. Please ensure all changes align with the project’s objectives and maintain consistent documentation.
+Contributions are welcome! If you'd like to improve the project, feel free to open an issue or submit a pull request. Please ensure all changes align with the project’s objectives and maintain consistent documentation. I want to say thank you to all YoloV7 Dev and All YoloV7 Contributor to make my project happen.
 
 
 ---
