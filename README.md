@@ -107,7 +107,7 @@ The Smart Home Security: Intruder Detection System is designed to enhance home s
 
 1. Start the Raspberry Pi script to initiate monitoring:
    ```bash
-   python3 intruder_detection.py
+   python3 final.py
    ```
 2. Launch the Flutter app on your mobile device to start receiving notifications.
 
