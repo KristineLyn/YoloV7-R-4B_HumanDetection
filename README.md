@@ -1,7 +1,3 @@
-Here's a README for your project that presents it in a professional and engaging way:
-
----
-
 # Smart Home Security: Intruder Detection System
 
 Welcome to the **Smart Home Security: Intruder Detection System** project! This intelligent home security solution combines the power of a Raspberry Pi, PIR motion sensors, and the YOLOv7 Machine Learning model to detect intruders accurately and efficiently. With this system, your home gains a vigilant virtual guard capable of identifying human presence and instantly notifying you via a connected mobile app.
